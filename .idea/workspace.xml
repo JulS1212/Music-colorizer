@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3435557b-4e22-4f28-9463-eb3835e9aef0" name="Changes" comment="feat: implement music color analyzer and update gitignore&#10;- Add music_to_colors() function extracting colors from audio features&#10;- Replace spectrogram-based approach with direct parameter mapping  &#10;- Ignore data/ folder to keep repository lightweight&#10;- Remove previously tracked data from version control" />
+    <list default="true" id="3435557b-4e22-4f28-9463-eb3835e9aef0" name="Changes" comment="feat: implement music color analyzer and update gitignore&#10;- Add music_to_colors() function extracting colors from audio features&#10;- Replace spectrogram-based approach with direct parameter mapping  &#10;- Ignore data/ folder to keep repository lightweight&#10;- Remove previously tracked data from version control">
+      <change afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.app.executor": "Run",
     "Python.color_extractor.executor": "Run",
     "Python.music_colorizer.executor": "Run",
     "Python.spectrogram.executor": "Run",
@@ -125,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760965597314</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: implement music color analyzer and update gitignore&#10;- Add music_to_colors() function extracting colors from audio features&#10;- Replace spectrogram-based approach with direct parameter mapping  &#10;- Ignore data/ folder to keep repository lightweight&#10;- Remove previously tracked data from version control">
+      <option name="closed" value="true" />
+      <created>1760965676517</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760965676517</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
