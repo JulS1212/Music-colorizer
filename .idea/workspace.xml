@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3435557b-4e22-4f28-9463-eb3835e9aef0" name="Changes" comment="git commit -m &quot;See the music: implement audio to spectrogram conversion&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_10_2025_1_51_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_10_2025_1_51_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_10_2025_1_51__Changes_.xml" afterDir="false" />
+    <list default="true" id="3435557b-4e22-4f28-9463-eb3835e9aef0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/Orf.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Waltz_No_2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/color_extractor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music_colorizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_colorizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music_colorizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/spectrogram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +27,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JulS1212"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/JulS1212/Music-colorizer.git&quot;,
@@ -42,16 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.music_colorizer.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.color_extractor.executor": "Run",
+    "Python.music_colorizer.executor": "Run",
+    "Python.spectrogram.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Yulia-PC/PythonProject/data"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yulia-PC\PythonProject\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yulia-PC\PythonProject\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,7 +99,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760901433623</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="See the music: implement audio to spectrogram conversion">
+      <option name="closed" value="true" />
+      <created>1760901665239</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760901665239</updated>
+    </task>
+    <task id="LOCAL-00004" summary="See the music: implement audio to spectrogram conversion">
+      <option name="closed" value="true" />
+      <created>1760901736717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760901736717</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +146,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git commit -m &quot;See the music: implement audio to spectrogram conversion&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;See the music: implement audio to spectrogram conversion&quot;" />
+    <MESSAGE value="See the music: implement audio to spectrogram conversion" />
+    <option name="LAST_COMMIT_MESSAGE" value="See the music: implement audio to spectrogram conversion" />
   </component>
 </project>
