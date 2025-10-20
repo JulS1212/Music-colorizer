@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3435557b-4e22-4f28-9463-eb3835e9aef0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/Orf.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Waltz_No_2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/color_extractor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music_colorizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/spectrogram.py" afterDir="false" />
-    </list>
+    <list default="true" id="3435557b-4e22-4f28-9463-eb3835e9aef0" name="Changes" comment="feat: implement music feature-based color analyzer&#10;- Extract colors from audio parameters (tempo, energy, brightness) &#10;- Replace spectrogram image analysis with direct music feature mapping&#10;- Generate unique color signatures for each composition&#10;- Add HSV color space support and palette visualization" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760901736717</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: implement music feature-based color analyzer&#10;- Extract colors from audio parameters (tempo, energy, brightness) &#10;- Replace spectrogram image analysis with direct music feature mapping&#10;- Generate unique color signatures for each composition&#10;- Add HSV color space support and palette visualization">
+      <option name="closed" value="true" />
+      <created>1760965339141</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760965339141</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +149,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git commit -m &quot;See the music: implement audio to spectrogram conversion&quot;" />
     <MESSAGE value="See the music: implement audio to spectrogram conversion" />
-    <option name="LAST_COMMIT_MESSAGE" value="See the music: implement audio to spectrogram conversion" />
+    <MESSAGE value="feat: implement music feature-based color analyzer&#10;- Extract colors from audio parameters (tempo, energy, brightness) &#10;- Replace spectrogram image analysis with direct music feature mapping&#10;- Generate unique color signatures for each composition&#10;- Add HSV color space support and palette visualization" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: implement music feature-based color analyzer&#10;- Extract colors from audio parameters (tempo, energy, brightness) &#10;- Replace spectrogram image analysis with direct music feature mapping&#10;- Generate unique color signatures for each composition&#10;- Add HSV color space support and palette visualization" />
   </component>
 </project>
